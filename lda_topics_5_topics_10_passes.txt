@@ -1,5 +1,0 @@
-Topic 0: 0.011*"said" + 0.009*"state" + 0.008*"trump" + 0.006*"islamic" + 0.005*"gigot" + 0.005*"president" + 0.005*"right" + 0.004*"force" + 0.004*"official" + 0.004*"think"
-Topic 1: 0.012*"state" + 0.010*"trump" + 0.010*"said" + 0.007*"new" + 0.006*"united" + 0.006*"islamic" + 0.005*"time" + 0.005*"american" + 0.005*"president" + 0.005*"order"
-Topic 2: 0.010*"said" + 0.009*"state" + 0.007*"new" + 0.007*"time" + 0.007*"trump" + 0.004*"york" + 0.004*"one" + 0.004*"islamic" + 0.004*"american" + 0.004*"united"
-Topic 3: 0.011*"said" + 0.010*"state" + 0.007*"islamic" + 0.006*"trump" + 0.006*"time" + 0.006*"new" + 0.005*"syria" + 0.004*"one" + 0.004*"american" + 0.004*"military"
-Topic 4: 0.010*"said" + 0.008*"trump" + 0.007*"state" + 0.006*"attack" + 0.005*"islamic" + 0.005*"new" + 0.005*"president" + 0.005*"time" + 0.004*"people" + 0.003*"one"

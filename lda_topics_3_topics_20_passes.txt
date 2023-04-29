@@ -1,3 +1,0 @@
-Topic 0: 0.011*"said" + 0.009*"state" + 0.008*"trump" + 0.006*"new" + 0.006*"time" + 0.005*"islamic" + 0.004*"president" + 0.004*"york" + 0.004*"one" + 0.004*"people"
-Topic 1: 0.011*"said" + 0.010*"state" + 0.007*"time" + 0.007*"islamic" + 0.006*"new" + 0.005*"york" + 0.005*"american" + 0.004*"one" + 0.004*"attack" + 0.004*"trump"
-Topic 2: 0.010*"said" + 0.010*"state" + 0.008*"trump" + 0.006*"islamic" + 0.005*"new" + 0.005*"syria" + 0.004*"time" + 0.004*"president" + 0.004*"one" + 0.004*"people"
