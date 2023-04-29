@@ -1,0 +1,7 @@
+Topic 0: 0.010*"said" + 0.009*"state" + 0.007*"time" + 0.007*"new" + 0.006*"trump" + 0.005*"facebook" + 0.005*"american" + 0.004*"york" + 0.004*"islamic" + 0.004*"president"
+Topic 1: 0.002*"said" + 0.001*"state" + 0.001*"islamic" + 0.001*"time" + 0.001*"trump" + 0.001*"president" + 0.001*"new" + 0.001*"people" + 0.001*"american" + 0.001*"would"
+Topic 2: 0.010*"said" + 0.008*"state" + 0.007*"new" + 0.007*"time" + 0.005*"islamic" + 0.005*"york" + 0.004*"trump" + 0.004*"one" + 0.004*"year" + 0.004*"would"
+Topic 3: 0.012*"said" + 0.010*"state" + 0.007*"trump" + 0.007*"islamic" + 0.005*"syria" + 0.005*"new" + 0.005*"time" + 0.004*"president" + 0.004*"force" + 0.004*"military"
+Topic 4: 0.011*"said" + 0.008*"trump" + 0.008*"state" + 0.006*"time" + 0.006*"new" + 0.005*"attack" + 0.005*"islamic" + 0.005*"president" + 0.005*"manchester" + 0.004*"people"
+Topic 5: 0.010*"state" + 0.010*"said" + 0.009*"trump" + 0.007*"new" + 0.006*"time" + 0.005*"united" + 0.005*"islamic" + 0.005*"american" + 0.004*"one" + 0.004*"country"
+Topic 6: 0.009*"state" + 0.007*"said" + 0.006*"obama" + 0.005*"afghanistan" + 0.005*"new" + 0.004*"islamic" + 0.004*"attack" + 0.004*"american" + 0.004*"time" + 0.004*"president"

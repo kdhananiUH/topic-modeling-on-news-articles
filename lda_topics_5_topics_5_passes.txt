@@ -1,0 +1,5 @@
+Topic 0: 0.009*"said" + 0.008*"state" + 0.006*"trump" + 0.005*"islamic" + 0.004*"official" + 0.004*"new" + 0.004*"president" + 0.004*"force" + 0.004*"2017" + 0.004*"right"
+Topic 1: 0.011*"state" + 0.009*"said" + 0.009*"trump" + 0.006*"islamic" + 0.006*"new" + 0.006*"united" + 0.005*"time" + 0.005*"american" + 0.005*"president" + 0.004*"york"
+Topic 2: 0.010*"said" + 0.009*"state" + 0.008*"new" + 0.007*"time" + 0.006*"trump" + 0.004*"one" + 0.004*"islamic" + 0.004*"united" + 0.004*"york" + 0.004*"american"
+Topic 3: 0.012*"said" + 0.010*"state" + 0.007*"trump" + 0.007*"islamic" + 0.006*"time" + 0.005*"new" + 0.005*"syria" + 0.004*"president" + 0.004*"military" + 0.004*"american"
+Topic 4: 0.010*"said" + 0.008*"state" + 0.008*"trump" + 0.006*"islamic" + 0.005*"president" + 0.005*"attack" + 0.004*"new" + 0.004*"people" + 0.004*"one" + 0.004*"time"
